@@ -51,6 +51,7 @@ body{
     margin-top: 50px;
 
 }
+
 .power5{
     font-size: 20px;
     font-weight: bold;
@@ -293,3 +294,200 @@ body{
     font-size: 30px;
     font-family: arial black;
 }
+
+@media screen and (max-width: 767px)
+{
+    .myfavorite {
+        text-align: center;
+        margin-top: 20px;
+      }
+      
+      .red {
+        color: red;
+      }
+      
+      .power2 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .johnmike {
+        font-size: 20px;
+        font-weight: bold;
+      }
+      
+      .power5 {
+        font-size: 24px;
+      }
+      
+      .power6 {
+        font-size: 30px;
+      }
+      
+      .power3 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .power4 {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .power8 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .aboutme {
+        font-size: 24px;
+        font-weight: bold;
+      }
+      
+      .me {
+        font-weight: normal;
+      }
+      
+      .power9 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .information {
+        text-align: justify;
+        font-size: 16px;
+      }
+      
+      .favo {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 24px;
+        font-weight: bold;
+      }
+      
+      .spanmyfavorite {
+        color: red;
+      }
+      
+      .power7 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .img1 {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .takraw {
+        text-align: justify;
+        margin-top: 20px;
+        font-size: 16px;
+      }
+      
+      .sports {
+        font-weight: bold;
+      }
+      
+      .power10 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .img2 {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .program {
+        text-align: justify;
+        margin-top: 20px;
+        font-size: 16px;
+      }
+      
+      .prog {
+        font-weight: bold;
+      }
+      
+      .power11 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .img3 {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .dogsay {
+        text-align: justify;
+        margin-top: 20px;
+        font-size: 16px;
+      }
+      
+      .pets {
+        font-weight: bold;
+      }
+      
+      .power12 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .pizza {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .pizzamsg {
+        text-align: justify;
+        margin-top: 20px;
+        font-size: 16px;
+      }
+      
+      .pizzaspan {
+        font-weight: bold;
+      }
+      
+      .power13 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .nanyang {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .takrawshoe {
+        text-align: justify;
+        margin-top: 20px;
+        font-size: 16px;
+      }
+      
+      .shoe {
+        font-weight: bold;
+      }
+      
+      .power14 {
+        text-align: center;
+        margin-top: 30px;
+      }
+      
+      .mango {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+      
+      .fruitmsg {
+        text-align: justify;
+        margin-top: 20px;
+      }
+}     
